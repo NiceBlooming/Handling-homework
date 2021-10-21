@@ -21,4 +21,6 @@
 `57. table.write(loc + 8, homework_number + 5, 10)`
 
 ## 注意
-目前只之前中文名称，即学生的名字为中文
+目前只之前中文名称，即学生的名字为中文  
+使用截图：  
+![Image text](https://github.com/NiceBlooming/Handling-homework/blob/df0166a9a5476d743bf73aeac15a96e7b84f9d0c/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.jpg)
